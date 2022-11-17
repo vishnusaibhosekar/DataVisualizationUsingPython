@@ -1,7 +1,8 @@
 # Data Visualization Using Python
 
-Created charts to visualize data using python's matplotlib
+Created charts to visualize data using python's matplotlib and seaborn
 
+Matplotlib:
 <table>
     <tr>
         <td>
@@ -27,4 +28,5 @@ Created charts to visualize data using python's matplotlib
     </tr>
 </table>
 
+Seaborn:
 <img src="https://user-images.githubusercontent.com/85636187/202325915-0f1bd151-0c7f-470f-9c59-e11da90159bf.png" alt="my_bar_chart" style="width:400px; height:400px;"/>
