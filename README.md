@@ -27,10 +27,4 @@ Created charts to visualize data using python's matplotlib
     </tr>
 </table>
 
-
-
-
-
-
-
-
+<img src="https://user-images.githubusercontent.com/85636187/202325915-0f1bd151-0c7f-470f-9c59-e11da90159bf.png" alt="my_bar_chart" style="width:400px; height:400px;"/>
