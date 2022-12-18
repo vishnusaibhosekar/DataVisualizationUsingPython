@@ -28,5 +28,14 @@ Matplotlib:
     </tr>
 </table>
 
-Seaborn:  
-<img src="https://user-images.githubusercontent.com/85636187/202325915-0f1bd151-0c7f-470f-9c59-e11da90159bf.png" alt="my_bar_chart" style="width:300px; height:300px;"/>
+Seaborn:
+<table>
+    <tr>
+        <td>
+            <img src="https://user-images.githubusercontent.com/85636187/202325915-0f1bd151-0c7f-470f-9c59-e11da90159bf.png" alt="my_bar_chart" style="width:300px; height:300px;"/>
+        </td>
+        <td>
+            <img src="https://user-images.githubusercontent.com/85636187/208312910-00047e1f-5ba0-42ab-a903-e4c0f4fed10d.png" alt="my_bar_chart" style="width:300px; height:300px;"/>
+        </td>
+    </tr>
+</table>
