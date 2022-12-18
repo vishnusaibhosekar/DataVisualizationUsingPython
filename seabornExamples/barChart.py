@@ -5,10 +5,10 @@ import seaborn as sns
 from matplotlib import pyplot as plt
 warnings.filterwarnings("ignore")
 
-set_one = np.genfromtxt("seabornExamples\dataset1.csv", delimiter=",")
-set_two = np.genfromtxt("seabornExamples\dataset1.csv", delimiter=",")
-set_three = np.genfromtxt("seabornExamples\dataset1.csv", delimiter=",")
-set_four = np.genfromtxt("seabornExamples\dataset1.csv", delimiter=",")
+set_one = np.genfromtxt("seabornExamples\seabornChartDataSets\seabornChartsDataset1.csv", delimiter=",")
+set_two = np.genfromtxt("seabornExamples\seabornChartDataSets\seabornChartsDataset2.csv", delimiter=",")
+set_three = np.genfromtxt("seabornExamples\seabornChartDataSets\seabornChartsDataset3.csv", delimiter=",")
+set_four = np.genfromtxt("seabornExamples\seabornChartDataSets\seabornChartsDataset4.csv", delimiter=",")
 
 n=500
 df = pd.DataFrame({
@@ -21,3 +21,4 @@ sns.set_palette("pastel")
 
 sns.barplot(data=df, x="label", y="value")
 plt.show()
+plt.savefig('./seabornExamples/barChart.png')

@@ -4,7 +4,7 @@ import pandas as pd
 from matplotlib import pyplot as plt
 import seaborn as sns
 
-df = pd.read_csv('./seabornExamples/data.csv')
+df = pd.read_csv('seabornExamples\seabornChartDataSets\seabornBarsData.csv')
 print(df)
 
 sns.barplot(
@@ -14,4 +14,4 @@ sns.barplot(
 )
 
 plt.show()
-# plt.savefig('./seabornExamples/seabornBars.png')
+plt.savefig('./seabornExamples/seabornBars.png')
