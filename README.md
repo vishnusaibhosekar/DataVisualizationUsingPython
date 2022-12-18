@@ -41,4 +41,9 @@ Seaborn:
             <img src="https://user-images.githubusercontent.com/85636187/208314591-05e91f73-20cb-4bfd-b710-f1228a22c6c4.png" alt="my_bar_chart" style="width:300px; height:300px;"/>
         </td>
     </tr>
+    <tr>
+        <td>
+            <img src="https://user-images.githubusercontent.com/85636187/208317679-1491bb33-107b-4908-bd7f-31f18599e2bc.png" alt="my_pie_chart" style="width:300px; height:300px;"/>
+        </td>
+    </tr>
 </table>
