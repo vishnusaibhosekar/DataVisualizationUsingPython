@@ -37,5 +37,8 @@ Seaborn:
         <td>
             <img src="https://user-images.githubusercontent.com/85636187/208312910-00047e1f-5ba0-42ab-a903-e4c0f4fed10d.png" alt="my_bar_chart" style="width:300px; height:300px;"/>
         </td>
+        <td>
+            <img src="https://user-images.githubusercontent.com/85636187/208314591-05e91f73-20cb-4bfd-b710-f1228a22c6c4.png" alt="my_bar_chart" style="width:300px; height:300px;"/>
+        </td>
     </tr>
 </table>
